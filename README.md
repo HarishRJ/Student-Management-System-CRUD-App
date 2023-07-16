@@ -4,13 +4,13 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/create.png" alt="project-screenshot" width="450" height="420/">
+<img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/create.png" alt="project-screenshot" width="750" height="420/">
 
-<img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/List.png" alt="project-screenshot" width="450" height="420/">
+<img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/List.png" alt="project-screenshot" width="750" height="420/">
 
-<img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/update.png" alt="project-screenshot" width="450" height="420/">
+<img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/update.png" alt="project-screenshot" width="750" height="420/">
 
-<img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/add.png" alt="project-screenshot" width="450" height="420/">
+<img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/add.png" alt="project-screenshot" width="750" height="420/">
 
   
   

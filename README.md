@@ -10,7 +10,7 @@
 
 <img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/update.png" alt="project-screenshot" width="75" height="75/">
 
-<img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/list.png" alt="project-screenshot" width="75" height="75/">
+<img src="https://github.com/HarishRJ/Student-Management-System-CRUD-App/blob/master/src/add.png" alt="project-screenshot" width="75" height="75/">
 
   
   
